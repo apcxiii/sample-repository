@@ -16,7 +16,8 @@
     float heightInMeters;
     int weightInKilos;
     
-    //ahi les voy
+    //ahi les voy nanitaaaaaaa 
+    // ahora vamos a poner el segundo comentario del comentario
 }
 
 // We'll experiment with ObjC Properties instead of explicitly declaring the accessors
