@@ -15,6 +15,8 @@
     // it adds two instance variables
     float heightInMeters;
     int weightInKilos;
+    
+    //ahi les voy
 }
 
 // We'll experiment with ObjC Properties instead of explicitly declaring the accessors
