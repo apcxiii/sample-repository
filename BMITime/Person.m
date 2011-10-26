@@ -37,6 +37,7 @@
 // Computational Methods
 - (float)bodyMassIndex
 {
+    // para el primer push
     float h = [self heightInMeters];
     return [self weightInKilos] / (h * h);
 }
